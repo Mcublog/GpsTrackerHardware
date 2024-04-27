@@ -1,2 +1,6 @@
 __Previews/
 History/
+*.LOG
+*.PcbDoc.htm
+pcb/side/Project Outputs for gps_logger_side/Design Rule Check - side.html
+pcb/side/Project Outputs for gps_logger_side/Design Rule Check - side.drc
